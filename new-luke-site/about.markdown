@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+After working for 5 years as a software developer in enterprise forecasting in Markham, Canada Luke now works as an IT consultant for the snow tourism industry in Western Canada. Luke spends his free time advancing his FPV drone adventures, writing and performing his own music, and jumping at every cool opportunity that comes up.
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
